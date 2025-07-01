@@ -1,7 +1,7 @@
 ![banner](https://github.com/abhishek7199/abhishek7199/assets/115469373/21cbbca9-4a10-4b95-a543-e1c21553cfd6)
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate aspiring Full-stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **React JS**
