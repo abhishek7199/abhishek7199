@@ -18,7 +18,7 @@
 <!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://x.com/technosnag](https://x.com/webabhishek7)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RajeshReddyDEV" height="30" width="40" /></a>
+<a href="[https://x.com/webabhishek7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RajeshReddyDEV" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abhishek7199/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RajeshReddy" height="30" width="40" /></a>
 <!-- <a href="https://www.instagram.com/technosnag/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="RajeshReddy" height="30" width="40" /></a> -->
 
